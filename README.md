@@ -6,7 +6,7 @@
 
 <h3 align="left">💫 About Me</h3>
 
-An undergraduate learning SE and a part-time ICT teacher for kids.<br>Studied Computing and Software Engineering at the ICBT Campus, Colombo.<br>Currently building a new portfolio and learning about DevOps and Machine Learning.<br>Loves traveling!<br>
+An undergraduate learning Software Engineering and a part-time ICT teacher for kids.<br>Studied Computing and Software Engineering at the ICBT Campus, Colombo.<br>Currently building a new portfolio and learning about DevOps and Machine Learning.<br>Loves traveling!<br>
 
 <h3 align="left">🌐 Socials</h3>
 
